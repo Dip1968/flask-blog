@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "blog_name": "Blogging star",
+    "tag_line": "Heaven for programmers",
+    "fb_url":"https://www.facebook.com/profile.php?id=100074939295045",
+    "tw_url":"https://twitter.com/rock_oftheworld?t=5z0P2b6BE7Ht_Dyb9Eorgw&s=09",
+    "gh_url": "https://github.com/Rockoftheworld",
+    "gmail-user":"star2dip@gmail.com",
+    "gmail-password":"dip@6910",
+    "about_text": "Hi my name is Dip and I am a good boy!!😁",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"Rock",
+    "admin_password": "Rock@4116",
+    "upload_location": "C:\\Users\\Asus\\Desktop\\Project\\Python-Flask-Blog-master\\static"
+
+
+
+  }
+
+}
